@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3e7473f329a8f6d8c33b4981333960a",
+    "revision": "9855c5755dbaf59e7bcc7eef43b35ad7",
     "url": "/MySummary/index.html"
   },
   {
-    "revision": "cf05466ab38cb354b62a",
-    "url": "/MySummary/static/css/main.2198faa4.chunk.css"
+    "revision": "511c86df1c0da29e87d1",
+    "url": "/MySummary/static/css/main.4f26b268.chunk.css"
   },
   {
-    "revision": "38fb4a0aea668e0ed690",
-    "url": "/MySummary/static/js/2.b21d8e68.chunk.js"
+    "revision": "83df2bdd673d20c47b23",
+    "url": "/MySummary/static/js/2.96c4a3b2.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/MySummary/static/js/2.b21d8e68.chunk.js.LICENSE.txt"
+    "url": "/MySummary/static/js/2.96c4a3b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf05466ab38cb354b62a",
-    "url": "/MySummary/static/js/main.ab4fb728.chunk.js"
+    "revision": "511c86df1c0da29e87d1",
+    "url": "/MySummary/static/js/main.1d5eeaed.chunk.js"
   },
   {
     "revision": "f3c9dcff8aed78389024",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "17a6652f345bc5ea2db2d4fba0c95a84",
     "url": "/MySummary/static/media/github.17a6652f.png"
-  },
-  {
-    "revision": "d71af0b2a733f0f8f43dedad641a211b",
-    "url": "/MySummary/static/media/reactJS.d71af0b2.png"
   },
   {
     "revision": "7bb145d1e62140f41a4423af67ffca55",
